@@ -1,0 +1,6 @@
+Metric,Value
+Network Density,0.0011712159556519644
+Average Shortest Path Length (Largest WCC),6.223273680404917
+Diameter (Largest WCC),18
+Number of Weakly Connected Components,1193
+Number of Strongly Connected Components,7252

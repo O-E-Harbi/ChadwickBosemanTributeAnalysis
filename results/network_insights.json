@@ -1,0 +1,226 @@
+{
+    "global_metrics": {
+        "density": 0.0005856079778259822,
+        "avg_shortest_path_length": 6.223273680404917,
+        "diameter": 18
+    },
+    "influencers": {
+        "top_degree_centrality": [
+            [
+                "@chadwickboseman",
+                0.05047579644187009
+            ],
+            [
+                "chadwickboseman",
+                0.04247689973796718
+            ],
+            [
+                "@Marvel",
+                0.01710108950489588
+            ],
+            [
+                "@MarvelStudios",
+                0.01323955316508068
+            ],
+            [
+                "t'challa: the black panther facts",
+                0.010205488898083023
+            ],
+            [
+                "dj dylan",
+                0.009102192800992967
+            ],
+            [
+                "ray veysey",
+                0.007033512618949111
+            ],
+            [
+                "Marvel",
+                0.006481864570404083
+            ],
+            [
+                "authority",
+                0.004826920424768998
+            ],
+            [
+                "@MCU_Direct",
+                0.00468900841263274
+            ]
+        ],
+        "top_betweenness_centrality": [
+            [
+                "marvel",
+                2.663128510217378e-07
+            ],
+            [
+                "matt con",
+                0.0
+            ],
+            [
+                "@OriginalFunko",
+                0.0
+            ],
+            [
+                "OriginalFunko",
+                0.0
+            ],
+            [
+                "ifeanyi nsofor",
+                0.0
+            ],
+            [
+                "@chadwickboseman",
+                0.0
+            ],
+            [
+                "@NPRGoatsandSoda",
+                0.0
+            ],
+            [
+                "chadwickboseman",
+                0.0
+            ],
+            [
+                "mvslim",
+                0.0
+            ],
+            [
+                "@HafsahDabiri",
+                0.0
+            ]
+        ],
+        "top_pagerank": [
+            [
+                "@chadwickboseman",
+                0.015094981705749761
+            ],
+            [
+                "chadwickboseman",
+                0.01375355624319171
+            ],
+            [
+                "@Marvel",
+                0.00367512637940804
+            ],
+            [
+                "@MarvelStudios",
+                0.0025390498502206663
+            ],
+            [
+                "Marvel",
+                0.0019155968482164954
+            ],
+            [
+                "@YouTube",
+                0.0014091033994741199
+            ],
+            [
+                "YouTube",
+                0.0013479089374901438
+            ],
+            [
+                "@kidnoble",
+                0.0012255200135221913
+            ],
+            [
+                "MarvelStudios",
+                0.0012056318133773993
+            ],
+            [
+                "kidnoble",
+                0.0011949227825302031
+            ]
+        ],
+        "top_eigenvector": [
+            [
+                "Umalumewabantu",
+                0.36466482089272456
+            ],
+            [
+                "@Naija_PR",
+                0.36466482089272456
+            ],
+            [
+                "@MarcoKiddd",
+                0.36466482089272456
+            ],
+            [
+                "MarcoKiddd",
+                0.36466482089272456
+            ],
+            [
+                "@Umalumewabantu",
+                0.36466482089272456
+            ],
+            [
+                "Naija_PR",
+                0.36466482089272456
+            ],
+            [
+                "@TimesLIVE",
+                0.36466482089272456
+            ],
+            [
+                "@chadwickboseman",
+                0.18614724327091056
+            ],
+            [
+                "chadwickboseman",
+                0.15664861221093046
+            ],
+            [
+                "@Marvel",
+                0.06306674815840799
+            ]
+        ]
+    },
+    "engagement": {
+        "top_users_by_engagement": [
+            {
+                "Username": "scheiman marcus",
+                "engagement_score": 65.97077922077922
+            },
+            {
+                "Username": "astrid lyttneyd \u00e1sgeirrfinnbjornsdottir",
+                "engagement_score": 13.625
+            },
+            {
+                "Username": "yousef ibrahim",
+                "engagement_score": 7.25
+            },
+            {
+                "Username": "colin all the time",
+                "engagement_score": 5.125
+            },
+            {
+                "Username": "dan graham",
+                "engagement_score": 5.0
+            },
+            {
+                "Username": "martine somsen \u2764\ud83c\udfb6\u2764\ufe0f",
+                "engagement_score": 2.36
+            },
+            {
+                "Username": "leno penha",
+                "engagement_score": 2.0
+            },
+            {
+                "Username": "tei15",
+                "engagement_score": 1.9779411764705883
+            },
+            {
+                "Username": "berto",
+                "engagement_score": 1.828729281767956
+            },
+            {
+                "Username": "kirinheart cosplay \ud83d\udd1c san japan",
+                "engagement_score": 1.7993197278911566
+            }
+        ],
+        "engagement_tier_counts": {
+            "Low": 1202,
+            "High": 868,
+            "Medium": 486
+        }
+    }
+}
